@@ -39,3 +39,7 @@
 - [x] Internet para import do bootstrap
 
 #### Backup do Banco esta na pasta Banco/
+#### Altere as variaveis para seu ambiente
+private static final String URL = "jdbc:postgresql://localhost:5432";
+private static final String USUARIO = "postgres";
+private static final String SENHA = "senha";
