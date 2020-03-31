@@ -36,5 +36,6 @@
 - [x] Postgres v10
 - [x] IDE 
 - [x] Navegador
+- [x] Internet para import do bootstrap
 
 #### Backup do Banco esta na pasta Banco/
