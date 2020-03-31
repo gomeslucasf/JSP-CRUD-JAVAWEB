@@ -5,7 +5,7 @@
 ## tela inicial
 - [x] Apresentação
 - [x] dark mode padrão
-![tela incial](web/img/inicio.png)
+![tela incial](web/img/Inicio.png)
 
 ## Listagem de Usuarios
 - [x] Listar Usuarios do Banco
@@ -27,7 +27,7 @@
 - [x] Validações frontend
 - [x] Validações backend
 - [x] Limpar tela 
-![Alterar](web/img/Alterar.png)
+![Alterar](web/img/alterar.png)
 
 
 ## REQUIRED
