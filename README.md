@@ -5,29 +5,28 @@
 ## tela inicial
 - [x] Apresentação
 - [x] dark mode padrão
-
 ![tela incial](web/img/inicio.png)
+
 ## Listagem de Usuarios
 - [x] Listar Usuarios do Banco
-- [] Permitir Busca filtrada
+- [ ] Permitir Busca filtrada
 - [x] Permitir Cadastrar novo
 - [x] Permitir Excluir Usuario
 - [x] Permitir Alterar Usuario
-
 ![Lista](web/img/lista.png)
+
 ## Cadastro de Usuarios
 - [x] Cadastrar No Banco
 - [x] Validações frontend
 - [x] Validações backend
 - [x] Limpar tela
-
 ![cadastro](web/img/cadastro.png)
+
 ## Alterar cadastro de Usuarios
 - [x] Alterar No Banco
 - [x] Validações frontend
 - [x] Validações backend
 - [x] Limpar tela 
-
 ![Alterar](web/img/Alterar.png)
 
 
